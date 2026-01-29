@@ -1,0 +1,14 @@
+main beats
+
+Create a multiplatform solution that enables the system to red, interpret and process stock information from yfinance (python backend), and di a daily summary per user
+
+Multiuser platform, individual accounts, Github SSO required
+
+
+Use the following requirements:
+IOS based Frontend 
+React web based Frontend for browsers
+MCP server for multicommunication
+Python based Backend
+
+Use hypothesis for testing the python code, prepare a selenium front-end test suite.
